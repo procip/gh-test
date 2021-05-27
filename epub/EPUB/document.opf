@@ -4,10 +4,10 @@
     <dc:identifier id="fidus">84</dc:identifier>
     <dc:title>Github Test</dc:title>
     <dc:creator>
-      Simon Worthington
+      An Author
     </dc:creator>
     <dc:language>de-DE</dc:language>
-    <meta property="dcterms:modified">2021-05-27T07:25:16Z</meta>
+    <meta property="dcterms:modified">2021-05-27T08:09:54Z</meta>
     <dc:date>2021-05-27</dc:date>
   </metadata>
   <manifest>
